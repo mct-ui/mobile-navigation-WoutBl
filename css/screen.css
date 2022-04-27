@@ -864,7 +864,7 @@ a:focus {
     right: 0;
     left: 0;
     height: 100vh;
-    background-image: #202024;
+    background-color: #202024;
     will-change: opacity;
     opacity: 0;
     transition: opacity .25s ease;
